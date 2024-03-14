@@ -1,0 +1,6 @@
+.vscode
+*.bak
+*.exe
+*.dll
+*.tmp
+*.old
